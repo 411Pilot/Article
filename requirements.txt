@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+reportlab
+textstat
+markdown
+python-docx
